@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @thanhtung
-- 👀 I’m interested in learning about Machine Learning
-- 🌱 I’m currently learning basic python
 - Currently in Germany, studying Computer Science and working in part-time as software developer
 - 📫 How to reach me: my LinkedIn: https://www.linkedin.com/in/thanh-tung-pham-7a6630206/
 
